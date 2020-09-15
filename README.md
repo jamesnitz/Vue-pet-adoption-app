@@ -1,8 +1,14 @@
 # adopt-pets
 
-## Project setup
+## About
 ```
-npm install
+Using custom features: 
+Babel, Router, Vuex, CSS Pre-processors, Lintor
+History Mode for router: Yes
+CSS Pre-processor: Sass/SCSS with node-sass
+linter: standard
+lint on save
+dedicated config files
 ```
 
 ### Compiles and hot-reloads for development

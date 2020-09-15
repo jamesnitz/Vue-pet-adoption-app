@@ -3,6 +3,9 @@ module.exports = {
   env: {
     node: true
   },
+  plugins: [
+    "only-warn"
+  ],
   extends: [
     'plugin:vue/essential',
     '@vue/standard'
