@@ -14,4 +14,5 @@ CSS Pre-processor: Sass/SCSS with node-sass
 linter: standard
 lint on save
 dedicated config files
+npm i bootstrap-vue bootstrap
 ```
